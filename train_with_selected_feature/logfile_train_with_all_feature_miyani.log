@@ -1,0 +1,174 @@
+2021-09-08 18:26:26,727 - root - WARNING - This will get logged to a file
+2021-09-08 18:26:26,739 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:26:28,642 - root - WARNING - fold: 0
+2021-09-08 18:26:33,985 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:26:57,023 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6554 
+2021-09-08 18:27:19,052 - root - WARNING - 
+Epoch [ 1/100], Step [  2/ 63], Loss train: 0.6707 
+2021-09-08 18:27:41,506 - root - WARNING - 
+Epoch [ 1/100], Step [  3/ 63], Loss train: 0.6739 
+2021-09-08 18:28:03,938 - root - WARNING - 
+Epoch [ 1/100], Step [  4/ 63], Loss train: 0.6732 
+2021-09-08 18:28:26,408 - root - WARNING - 
+Epoch [ 1/100], Step [  5/ 63], Loss train: 0.5539 
+2021-09-08 18:28:48,449 - root - WARNING - 
+Epoch [ 1/100], Step [  6/ 63], Loss train: 0.6094 
+2021-09-08 18:29:10,769 - root - WARNING - 
+Epoch [ 1/100], Step [  7/ 63], Loss train: 0.5457 
+2021-09-08 18:29:33,832 - root - WARNING - 
+Epoch [ 1/100], Step [  8/ 63], Loss train: 0.6788 
+2021-09-08 18:29:56,828 - root - WARNING - 
+Epoch [ 1/100], Step [  9/ 63], Loss train: 0.6174 
+2021-09-08 18:30:18,824 - root - WARNING - 
+Epoch [ 1/100], Step [ 10/ 63], Loss train: 0.5460 
+2021-09-08 18:30:40,821 - root - WARNING - 
+Epoch [ 1/100], Step [ 11/ 63], Loss train: 0.5383 
+2021-09-08 18:31:03,254 - root - WARNING - 
+Epoch [ 1/100], Step [ 12/ 63], Loss train: 0.5199 
+2021-09-08 18:31:25,855 - root - WARNING - 
+Epoch [ 1/100], Step [ 13/ 63], Loss train: 0.4534 
+2021-09-08 18:31:47,968 - root - WARNING - 
+Epoch [ 1/100], Step [ 14/ 63], Loss train: 0.6259 
+2021-09-08 18:32:10,471 - root - WARNING - 
+Epoch [ 1/100], Step [ 15/ 63], Loss train: 0.4392 
+2021-09-08 18:32:32,492 - root - WARNING - 
+Epoch [ 1/100], Step [ 16/ 63], Loss train: 0.5443 
+2021-09-08 18:32:54,648 - root - WARNING - 
+Epoch [ 1/100], Step [ 17/ 63], Loss train: 0.5239 
+2021-09-08 18:33:17,314 - root - WARNING - 
+Epoch [ 1/100], Step [ 18/ 63], Loss train: 0.7732 
+2021-09-08 18:33:39,889 - root - WARNING - 
+Epoch [ 1/100], Step [ 19/ 63], Loss train: 0.5633 
+2021-09-08 18:34:01,991 - root - WARNING - 
+Epoch [ 1/100], Step [ 20/ 63], Loss train: 0.6453 
+2021-09-08 18:49:02,252 - root - WARNING - This will get logged to a file
+2021-09-08 18:49:02,264 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:49:04,174 - root - WARNING - fold: 0
+2021-09-08 18:49:04,177 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:49:38,596 - root - WARNING - This will get logged to a file
+2021-09-08 18:49:38,607 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:49:40,496 - root - WARNING - fold: 0
+2021-09-08 18:49:40,499 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:50:02,876 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.7103 
+2021-09-08 18:52:39,425 - root - WARNING - This will get logged to a file
+2021-09-08 18:52:39,435 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:52:41,326 - root - WARNING - fold: 0
+2021-09-08 18:52:41,328 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:53:03,761 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.5864 
+2021-09-08 18:53:26,237 - root - WARNING - 
+Epoch [ 1/100], Step [  2/ 63], Loss train: 0.6480 
+2021-09-08 18:54:01,784 - root - WARNING - This will get logged to a file
+2021-09-08 18:54:01,794 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:54:03,698 - root - WARNING - fold: 0
+2021-09-08 18:54:03,702 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:54:25,987 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.7837 
+2021-09-08 18:54:48,272 - root - WARNING - 
+Epoch [ 1/100], Step [  2/ 63], Loss train: 0.7794 
+2021-09-08 18:55:08,204 - root - WARNING - This will get logged to a file
+2021-09-08 18:55:08,213 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:55:10,092 - root - WARNING - fold: 0
+2021-09-08 18:55:10,095 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:57:16,166 - root - WARNING - This will get logged to a file
+2021-09-08 18:57:16,176 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:57:18,057 - root - WARNING - fold: 0
+2021-09-08 18:57:18,060 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:57:40,207 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6669 
+2021-09-08 18:57:40,207 - root - WARNING - Corrects  train in epoch_1: 3 from 252
+2021-09-08 18:57:40,207 - root - WARNING - Train Accuracy in epoch_1: 1.1905, Train Loss total: 0.0106
+2021-09-08 18:57:40,638 - root - WARNING - -----------------------evaluation-----------------------
+2021-09-08 18:58:54,221 - root - WARNING - This will get logged to a file
+2021-09-08 18:58:54,231 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:58:56,139 - root - WARNING - fold: 0
+2021-09-08 18:58:56,142 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:59:17,973 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.7188 
+2021-09-08 18:59:17,973 - root - WARNING - Corrects  train in epoch_1: 2 from 252
+2021-09-08 18:59:17,973 - root - WARNING - Train Accuracy in epoch_1: 0.7937, Train Loss total: 0.0114
+2021-09-08 18:59:18,381 - root - WARNING - -----------------------evaluation-----------------------
+2021-09-08 19:00:52,335 - root - WARNING - This will get logged to a file
+2021-09-08 19:00:52,347 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 19:00:54,242 - root - WARNING - fold: 0
+2021-09-08 19:00:54,246 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 19:01:16,649 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6925 
+2021-09-08 19:01:16,650 - root - WARNING - Corrects  train in epoch_1: 2 from 252
+2021-09-08 19:01:16,650 - root - WARNING - Train Accuracy in epoch_1: 0.7937, Train Loss total: 0.0110
+2021-09-08 19:01:16,851 - root - WARNING - -----------------------evaluation-----------------------
+2021-09-08 19:07:11,424 - root - WARNING - Validation Accuracy in epoch_0:  48.4375 ,Valid Loss: 5.8786
+2021-09-08 19:07:11,425 - root - WARNING - fold: 0tn: 2fp: 2fn: 5tp: 7
+2021-09-08 19:07:11,425 - root - WARNING - [[2 2]
+ [5 7]]
+2021-09-08 19:07:11,426 - root - WARNING - Finished evalating
+2021-09-08 19:07:11,426 - root - WARNING - -------------------- epoch 1 ------------------
+
+2021-09-08 19:07:33,776 - root - WARNING - 
+Epoch [ 2/100], Step [  1/ 63], Loss train: 0.6346 
+2021-09-08 19:07:33,776 - root - WARNING - -------------------- epoch 2 ------------------
+
+2021-09-08 19:07:56,329 - root - WARNING - 
+Epoch [ 3/100], Step [  1/ 63], Loss train: 0.6625 
+2021-09-08 19:07:56,329 - root - WARNING - -------------------- epoch 3 ------------------
+
+2021-09-08 19:08:18,843 - root - WARNING - 
+Epoch [ 4/100], Step [  1/ 63], Loss train: 0.6931 
+2021-09-08 19:08:18,844 - root - WARNING - -------------------- epoch 4 ------------------
+
+2021-09-08 19:08:41,711 - root - WARNING - 
+Epoch [ 5/100], Step [  1/ 63], Loss train: 0.6918 
+2021-09-08 19:08:41,711 - root - WARNING - -------------------- epoch 5 ------------------
+
+2021-09-08 19:09:03,926 - root - WARNING - 
+Epoch [ 6/100], Step [  1/ 63], Loss train: 0.6279 
+2021-09-08 19:09:03,927 - root - WARNING - Corrects  train in epoch_6: 3 from 252
+2021-09-08 19:09:03,927 - root - WARNING - Train Accuracy in epoch_6: 1.1905, Train Loss total: 0.0100
+2021-09-08 19:09:04,035 - root - WARNING - -----------------------evaluation-----------------------
+2021-09-09 18:22:47,935 - root - WARNING - This will get logged to a file
+2021-09-09 18:22:47,951 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_selected_feature
+2021-09-09 18:23:27,614 - root - WARNING - This will get logged to a file
+2021-09-09 18:23:27,624 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_selected_feature
+2021-09-09 18:24:46,960 - root - WARNING - This will get logged to a file
+2021-09-09 18:24:46,971 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_selected_feature
+2021-09-09 18:25:27,920 - root - WARNING - This will get logged to a file
+2021-09-09 18:25:27,930 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_selected_feature
+2021-09-09 18:25:29,823 - root - WARNING - fold: 0
+2021-09-09 18:25:29,848 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 18:28:21,273 - root - WARNING - This will get logged to a file
+2021-09-09 18:28:21,283 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_selected_feature
+2021-09-09 18:28:23,180 - root - WARNING - fold: 0
+2021-09-09 18:28:23,185 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 18:29:30,532 - root - WARNING - This will get logged to a file
+2021-09-09 18:29:30,543 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_selected_feature
+2021-09-09 18:29:32,437 - root - WARNING - fold: 0
+2021-09-09 18:29:32,440 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 18:32:48,865 - root - WARNING - This will get logged to a file
+2021-09-09 18:32:48,875 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_selected_feature
+2021-09-09 18:32:50,772 - root - WARNING - fold: 0
+2021-09-09 18:32:50,776 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 18:34:31,260 - root - WARNING - This will get logged to a file
+2021-09-09 18:34:31,270 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_selected_feature
+2021-09-09 18:34:33,151 - root - WARNING - fold: 0
+2021-09-09 18:34:33,155 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 18:34:56,713 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.7644 
+2021-09-09 18:34:56,714 - root - WARNING - Corrects  train in epoch_1: 0 from 252
+2021-09-09 18:34:56,714 - root - WARNING - Train Accuracy in epoch_1: 0.0000, Train Loss total: 0.0121
+2021-09-09 18:34:56,963 - root - WARNING - -----------------------evaluation-----------------------

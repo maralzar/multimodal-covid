@@ -1,0 +1,456 @@
+2021-09-08 17:24:24,759 - root - WARNING - This will get logged to a file
+2021-09-08 17:24:24,772 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 17:27:51,875 - root - WARNING - This will get logged to a file
+2021-09-08 17:27:51,885 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 17:29:06,516 - root - WARNING - This will get logged to a file
+2021-09-08 17:29:06,526 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 17:29:08,431 - root - WARNING - fold: 0
+2021-09-08 17:29:13,770 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 17:39:07,049 - root - WARNING - This will get logged to a file
+2021-09-08 17:39:07,062 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 17:39:08,959 - root - WARNING - fold: 0
+2021-09-08 17:39:53,480 - root - WARNING - This will get logged to a file
+2021-09-08 17:39:53,491 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 17:39:55,371 - root - WARNING - fold: 0
+2021-09-08 17:40:00,713 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 17:40:23,138 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6565 
+2021-09-08 17:42:20,241 - root - WARNING - This will get logged to a file
+2021-09-08 17:42:20,254 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 17:42:22,152 - root - WARNING - fold: 0
+2021-09-08 17:42:27,488 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 17:42:49,864 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6928 
+2021-09-08 17:43:12,667 - root - WARNING - 
+Epoch [ 1/100], Step [  2/ 63], Loss train: 0.7390 
+2021-09-08 17:43:34,853 - root - WARNING - 
+Epoch [ 1/100], Step [  3/ 63], Loss train: 0.6562 
+2021-09-08 17:43:57,305 - root - WARNING - 
+Epoch [ 1/100], Step [  4/ 63], Loss train: 0.6540 
+2021-09-08 17:44:19,405 - root - WARNING - 
+Epoch [ 1/100], Step [  5/ 63], Loss train: 0.6513 
+2021-09-08 17:58:21,625 - root - WARNING - This will get logged to a file
+2021-09-08 17:58:21,637 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 17:58:23,547 - root - WARNING - fold: 0
+2021-09-08 17:58:28,885 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 17:58:50,648 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-08 17:58:51,314 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.7157 
+2021-09-08 17:59:13,352 - root - WARNING - ------- iteration phase train:1 ----------
+2021-09-08 17:59:14,014 - root - WARNING - 
+Epoch [ 1/100], Step [  2/ 63], Loss train: 0.6831 
+2021-09-08 17:59:36,054 - root - WARNING - ------- iteration phase train:2 ----------
+2021-09-08 17:59:36,723 - root - WARNING - 
+Epoch [ 1/100], Step [  3/ 63], Loss train: 0.7228 
+2021-09-08 17:59:57,890 - root - WARNING - ------- iteration phase train:3 ----------
+2021-09-08 17:59:58,548 - root - WARNING - 
+Epoch [ 1/100], Step [  4/ 63], Loss train: 0.7471 
+2021-09-08 18:00:34,784 - root - WARNING - This will get logged to a file
+2021-09-08 18:00:34,794 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:00:36,687 - root - WARNING - fold: 0
+2021-09-08 18:00:42,099 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-08 18:01:04,080 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-08 18:01:04,743 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6345 
+2021-09-08 18:01:04,743 - root - WARNING - Corrects  train in epoch_1: 3 from 252
+2021-09-08 18:01:04,743 - root - WARNING - Train Accuracy in epoch_1: 1.1905, Train Loss total: 0.0101
+2021-09-08 18:01:04,884 - root - WARNING - -----------------------evaluation-----------------------
+2021-09-08 18:07:00,170 - root - WARNING - Validation Accuracy in epoch_0:  51.5625 ,Valid Loss: 22.4541
+2021-09-08 18:07:00,172 - root - WARNING - fold: 0tn: 7fp: 5fn: 26tp: 26
+2021-09-08 18:07:00,173 - root - WARNING - [[ 7  5]
+ [26 26]]
+2021-09-08 18:07:00,173 - root - WARNING - Finished evalating
+2021-09-08 18:07:00,173 - root - WARNING - -------------------- epoch 1 ------------------
+
+2021-09-08 18:07:21,729 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-08 18:07:22,390 - root - WARNING - 
+Epoch [ 2/100], Step [  1/ 63], Loss train: 0.6016 
+2021-09-08 18:07:22,390 - root - WARNING - Corrects  train in epoch_2: 4 from 252
+2021-09-08 18:07:22,390 - root - WARNING - Train Accuracy in epoch_2: 1.5873, Train Loss total: 0.0095
+2021-09-08 18:07:22,537 - root - WARNING - -----------------------evaluation-----------------------
+2021-09-08 18:53:50,380 - root - WARNING - This will get logged to a file
+2021-09-08 18:53:50,391 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-08 18:53:52,279 - root - WARNING - fold: 0
+2021-09-09 13:01:58,007 - root - WARNING - This will get logged to a file
+2021-09-09 13:01:58,018 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-09 13:01:59,948 - root - WARNING - fold: 0
+2021-09-09 13:02:05,778 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 13:02:27,396 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-09 13:02:28,112 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6981 
+2021-09-09 13:04:52,120 - root - WARNING - This will get logged to a file
+2021-09-09 13:04:52,174 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-09 13:04:54,093 - root - WARNING - fold: 0
+2021-09-09 13:04:59,450 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 13:05:21,859 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-09 13:05:22,550 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6762 
+2021-09-09 13:05:44,641 - root - WARNING - ------- iteration phase train:1 ----------
+2021-09-09 13:05:45,311 - root - WARNING - 
+Epoch [ 1/100], Step [  2/ 63], Loss train: 0.7074 
+2021-09-09 13:51:36,600 - root - WARNING - This will get logged to a file
+2021-09-09 13:51:36,613 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-09 13:51:38,529 - root - WARNING - fold: 0
+2021-09-09 13:51:44,303 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 13:52:05,651 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-09 13:52:06,342 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6813 
+2021-09-09 13:52:29,267 - root - WARNING - ------- iteration phase train:1 ----------
+2021-09-09 13:52:29,947 - root - WARNING - 
+Epoch [ 1/100], Step [  2/ 63], Loss train: 0.6337 
+2021-09-09 13:52:52,372 - root - WARNING - ------- iteration phase train:2 ----------
+2021-09-09 13:52:53,039 - root - WARNING - 
+Epoch [ 1/100], Step [  3/ 63], Loss train: 0.6061 
+2021-09-09 13:53:15,540 - root - WARNING - ------- iteration phase train:3 ----------
+2021-09-09 13:53:16,222 - root - WARNING - 
+Epoch [ 1/100], Step [  4/ 63], Loss train: 0.5668 
+2021-09-09 13:53:39,420 - root - WARNING - ------- iteration phase train:4 ----------
+2021-09-09 13:53:40,088 - root - WARNING - 
+Epoch [ 1/100], Step [  5/ 63], Loss train: 0.5909 
+2021-09-09 13:57:57,838 - root - WARNING - This will get logged to a file
+2021-09-09 13:57:57,852 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_all_feature
+2021-09-09 13:57:59,742 - root - WARNING - fold: 0
+2021-09-09 13:58:05,133 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 13:58:27,922 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-09 13:58:28,611 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6940 
+2021-09-09 13:58:51,485 - root - WARNING - ------- iteration phase train:1 ----------
+2021-09-09 13:58:52,164 - root - WARNING - 
+Epoch [ 1/100], Step [  2/ 63], Loss train: 0.6604 
+2021-09-09 13:59:14,778 - root - WARNING - ------- iteration phase train:2 ----------
+2021-09-09 13:59:15,445 - root - WARNING - 
+Epoch [ 1/100], Step [  3/ 63], Loss train: 0.6851 
+2021-09-09 13:59:37,279 - root - WARNING - ------- iteration phase train:3 ----------
+2021-09-09 13:59:37,964 - root - WARNING - 
+Epoch [ 1/100], Step [  4/ 63], Loss train: 0.6953 
+2021-09-09 14:00:00,410 - root - WARNING - ------- iteration phase train:4 ----------
+2021-09-09 14:00:01,155 - root - WARNING - 
+Epoch [ 1/100], Step [  5/ 63], Loss train: 0.6563 
+2021-09-09 14:00:23,532 - root - WARNING - ------- iteration phase train:5 ----------
+2021-09-09 14:00:24,209 - root - WARNING - 
+Epoch [ 1/100], Step [  6/ 63], Loss train: 0.6793 
+2021-09-09 14:00:46,311 - root - WARNING - ------- iteration phase train:6 ----------
+2021-09-09 14:00:46,981 - root - WARNING - 
+Epoch [ 1/100], Step [  7/ 63], Loss train: 0.7135 
+2021-09-09 14:01:08,884 - root - WARNING - ------- iteration phase train:7 ----------
+2021-09-09 14:01:09,566 - root - WARNING - 
+Epoch [ 1/100], Step [  8/ 63], Loss train: 0.6153 
+2021-09-09 14:01:32,273 - root - WARNING - ------- iteration phase train:8 ----------
+2021-09-09 14:01:32,946 - root - WARNING - 
+Epoch [ 1/100], Step [  9/ 63], Loss train: 0.7425 
+2021-09-09 14:01:55,872 - root - WARNING - ------- iteration phase train:9 ----------
+2021-09-09 14:01:56,557 - root - WARNING - 
+Epoch [ 1/100], Step [ 10/ 63], Loss train: 0.6156 
+2021-09-09 14:02:19,063 - root - WARNING - ------- iteration phase train:10 ----------
+2021-09-09 14:02:19,762 - root - WARNING - 
+Epoch [ 1/100], Step [ 11/ 63], Loss train: 0.6066 
+2021-09-09 14:02:45,025 - root - WARNING - ------- iteration phase train:11 ----------
+2021-09-09 14:02:45,707 - root - WARNING - 
+Epoch [ 1/100], Step [ 12/ 63], Loss train: 0.6229 
+2021-09-09 14:03:09,944 - root - WARNING - ------- iteration phase train:12 ----------
+2021-09-09 14:03:10,658 - root - WARNING - 
+Epoch [ 1/100], Step [ 13/ 63], Loss train: 0.6366 
+2021-09-09 14:03:35,047 - root - WARNING - ------- iteration phase train:13 ----------
+2021-09-09 14:03:35,728 - root - WARNING - 
+Epoch [ 1/100], Step [ 14/ 63], Loss train: 0.6827 
+2021-09-09 14:03:59,982 - root - WARNING - ------- iteration phase train:14 ----------
+2021-09-09 14:04:00,658 - root - WARNING - 
+Epoch [ 1/100], Step [ 15/ 63], Loss train: 0.6694 
+2021-09-09 14:04:23,523 - root - WARNING - ------- iteration phase train:15 ----------
+2021-09-09 14:04:24,203 - root - WARNING - 
+Epoch [ 1/100], Step [ 16/ 63], Loss train: 0.7157 
+2021-09-09 14:04:47,457 - root - WARNING - ------- iteration phase train:16 ----------
+2021-09-09 14:04:48,155 - root - WARNING - 
+Epoch [ 1/100], Step [ 17/ 63], Loss train: 0.5637 
+2021-09-09 14:05:10,707 - root - WARNING - ------- iteration phase train:17 ----------
+2021-09-09 14:05:11,397 - root - WARNING - 
+Epoch [ 1/100], Step [ 18/ 63], Loss train: 0.6975 
+2021-09-09 14:05:34,169 - root - WARNING - ------- iteration phase train:18 ----------
+2021-09-09 14:05:34,860 - root - WARNING - 
+Epoch [ 1/100], Step [ 19/ 63], Loss train: 0.5881 
+2021-09-09 14:05:57,694 - root - WARNING - ------- iteration phase train:19 ----------
+2021-09-09 14:05:58,381 - root - WARNING - 
+Epoch [ 1/100], Step [ 20/ 63], Loss train: 0.5661 
+2021-09-09 14:06:21,238 - root - WARNING - ------- iteration phase train:20 ----------
+2021-09-09 14:06:21,916 - root - WARNING - 
+Epoch [ 1/100], Step [ 21/ 63], Loss train: 0.5609 
+2021-09-09 14:06:44,690 - root - WARNING - ------- iteration phase train:21 ----------
+2021-09-09 14:06:45,380 - root - WARNING - 
+Epoch [ 1/100], Step [ 22/ 63], Loss train: 0.6226 
+2021-09-09 14:07:07,641 - root - WARNING - ------- iteration phase train:22 ----------
+2021-09-09 14:07:08,317 - root - WARNING - 
+Epoch [ 1/100], Step [ 23/ 63], Loss train: 0.6176 
+2021-09-09 14:07:31,210 - root - WARNING - ------- iteration phase train:23 ----------
+2021-09-09 14:07:31,903 - root - WARNING - 
+Epoch [ 1/100], Step [ 24/ 63], Loss train: 0.6420 
+2021-09-09 14:07:55,152 - root - WARNING - ------- iteration phase train:24 ----------
+2021-09-09 14:07:55,848 - root - WARNING - 
+Epoch [ 1/100], Step [ 25/ 63], Loss train: 0.6398 
+2021-09-09 14:08:19,056 - root - WARNING - ------- iteration phase train:25 ----------
+2021-09-09 14:08:19,793 - root - WARNING - 
+Epoch [ 1/100], Step [ 26/ 63], Loss train: 0.5414 
+2021-09-09 14:08:43,988 - root - WARNING - ------- iteration phase train:26 ----------
+2021-09-09 14:08:44,664 - root - WARNING - 
+Epoch [ 1/100], Step [ 27/ 63], Loss train: 0.7347 
+2021-09-09 14:09:07,366 - root - WARNING - ------- iteration phase train:27 ----------
+2021-09-09 14:09:08,047 - root - WARNING - 
+Epoch [ 1/100], Step [ 28/ 63], Loss train: 0.5994 
+2021-09-09 14:09:30,500 - root - WARNING - ------- iteration phase train:28 ----------
+2021-09-09 14:09:31,174 - root - WARNING - 
+Epoch [ 1/100], Step [ 29/ 63], Loss train: 0.6372 
+2021-09-09 14:09:54,081 - root - WARNING - ------- iteration phase train:29 ----------
+2021-09-09 14:09:54,762 - root - WARNING - 
+Epoch [ 1/100], Step [ 30/ 63], Loss train: 0.6454 
+2021-09-09 14:10:17,820 - root - WARNING - ------- iteration phase train:30 ----------
+2021-09-09 14:10:18,494 - root - WARNING - 
+Epoch [ 1/100], Step [ 31/ 63], Loss train: 0.7459 
+2021-09-09 14:10:40,790 - root - WARNING - ------- iteration phase train:31 ----------
+2021-09-09 14:10:41,474 - root - WARNING - 
+Epoch [ 1/100], Step [ 32/ 63], Loss train: 0.6545 
+2021-09-09 14:11:03,785 - root - WARNING - ------- iteration phase train:32 ----------
+2021-09-09 14:11:04,456 - root - WARNING - 
+Epoch [ 1/100], Step [ 33/ 63], Loss train: 0.6790 
+2021-09-09 14:11:27,276 - root - WARNING - ------- iteration phase train:33 ----------
+2021-09-09 14:11:27,961 - root - WARNING - 
+Epoch [ 1/100], Step [ 34/ 63], Loss train: 0.4784 
+2021-09-09 14:11:50,725 - root - WARNING - ------- iteration phase train:34 ----------
+2021-09-09 14:11:51,396 - root - WARNING - 
+Epoch [ 1/100], Step [ 35/ 63], Loss train: 0.4912 
+2021-09-09 14:12:15,017 - root - WARNING - ------- iteration phase train:35 ----------
+2021-09-09 14:12:15,704 - root - WARNING - 
+Epoch [ 1/100], Step [ 36/ 63], Loss train: 0.4902 
+2021-09-09 14:12:42,138 - root - WARNING - ------- iteration phase train:36 ----------
+2021-09-09 14:12:42,808 - root - WARNING - 
+Epoch [ 1/100], Step [ 37/ 63], Loss train: 0.5119 
+2021-09-09 14:13:05,151 - root - WARNING - ------- iteration phase train:37 ----------
+2021-09-09 14:13:05,838 - root - WARNING - 
+Epoch [ 1/100], Step [ 38/ 63], Loss train: 0.4850 
+2021-09-09 14:13:28,487 - root - WARNING - ------- iteration phase train:38 ----------
+2021-09-09 14:13:29,157 - root - WARNING - 
+Epoch [ 1/100], Step [ 39/ 63], Loss train: 0.5043 
+2021-09-09 14:13:50,975 - root - WARNING - ------- iteration phase train:39 ----------
+2021-09-09 14:13:51,657 - root - WARNING - 
+Epoch [ 1/100], Step [ 40/ 63], Loss train: 0.5692 
+2021-09-09 14:14:13,886 - root - WARNING - ------- iteration phase train:40 ----------
+2021-09-09 14:14:14,557 - root - WARNING - 
+Epoch [ 1/100], Step [ 41/ 63], Loss train: 0.5337 
+2021-09-09 14:14:37,634 - root - WARNING - ------- iteration phase train:41 ----------
+2021-09-09 14:14:38,318 - root - WARNING - 
+Epoch [ 1/100], Step [ 42/ 63], Loss train: 0.5010 
+2021-09-09 14:15:00,536 - root - WARNING - ------- iteration phase train:42 ----------
+2021-09-09 14:15:01,212 - root - WARNING - 
+Epoch [ 1/100], Step [ 43/ 63], Loss train: 0.7102 
+2021-09-09 14:15:24,802 - root - WARNING - ------- iteration phase train:43 ----------
+2021-09-09 14:15:25,488 - root - WARNING - 
+Epoch [ 1/100], Step [ 44/ 63], Loss train: 0.5854 
+2021-09-09 14:15:47,702 - root - WARNING - ------- iteration phase train:44 ----------
+2021-09-09 14:15:48,376 - root - WARNING - 
+Epoch [ 1/100], Step [ 45/ 63], Loss train: 0.6102 
+2021-09-09 14:16:11,101 - root - WARNING - ------- iteration phase train:45 ----------
+2021-09-09 14:16:11,782 - root - WARNING - 
+Epoch [ 1/100], Step [ 46/ 63], Loss train: 0.6081 
+2021-09-09 14:16:34,322 - root - WARNING - ------- iteration phase train:46 ----------
+2021-09-09 14:16:34,993 - root - WARNING - 
+Epoch [ 1/100], Step [ 47/ 63], Loss train: 0.5106 
+2021-09-09 14:16:57,495 - root - WARNING - ------- iteration phase train:47 ----------
+2021-09-09 14:16:58,176 - root - WARNING - 
+Epoch [ 1/100], Step [ 48/ 63], Loss train: 0.6923 
+2021-09-09 14:17:20,665 - root - WARNING - ------- iteration phase train:48 ----------
+2021-09-09 14:17:21,333 - root - WARNING - 
+Epoch [ 1/100], Step [ 49/ 63], Loss train: 0.4791 
+2021-09-09 14:17:44,146 - root - WARNING - ------- iteration phase train:49 ----------
+2021-09-09 14:17:44,832 - root - WARNING - 
+Epoch [ 1/100], Step [ 50/ 63], Loss train: 0.6796 
+2021-09-09 14:18:07,082 - root - WARNING - ------- iteration phase train:50 ----------
+2021-09-09 14:18:07,749 - root - WARNING - 
+Epoch [ 1/100], Step [ 51/ 63], Loss train: 0.6300 
+2021-09-09 14:18:30,213 - root - WARNING - ------- iteration phase train:51 ----------
+2021-09-09 14:18:30,893 - root - WARNING - 
+Epoch [ 1/100], Step [ 52/ 63], Loss train: 0.4800 
+2021-09-09 14:18:53,088 - root - WARNING - ------- iteration phase train:52 ----------
+2021-09-09 14:18:53,758 - root - WARNING - 
+Epoch [ 1/100], Step [ 53/ 63], Loss train: 0.4893 
+2021-09-09 14:19:16,445 - root - WARNING - ------- iteration phase train:53 ----------
+2021-09-09 14:19:17,120 - root - WARNING - 
+Epoch [ 1/100], Step [ 54/ 63], Loss train: 0.4742 
+2021-09-09 14:19:39,317 - root - WARNING - ------- iteration phase train:54 ----------
+2021-09-09 14:19:39,985 - root - WARNING - 
+Epoch [ 1/100], Step [ 55/ 63], Loss train: 0.3902 
+2021-09-09 14:20:03,021 - root - WARNING - ------- iteration phase train:55 ----------
+2021-09-09 14:20:03,708 - root - WARNING - 
+Epoch [ 1/100], Step [ 56/ 63], Loss train: 0.4123 
+2021-09-09 14:20:26,116 - root - WARNING - ------- iteration phase train:56 ----------
+2021-09-09 14:20:26,784 - root - WARNING - 
+Epoch [ 1/100], Step [ 57/ 63], Loss train: 0.4018 
+2021-09-09 14:20:49,456 - root - WARNING - ------- iteration phase train:57 ----------
+2021-09-09 14:20:50,149 - root - WARNING - 
+Epoch [ 1/100], Step [ 58/ 63], Loss train: 0.4067 
+2021-09-09 14:21:12,243 - root - WARNING - ------- iteration phase train:58 ----------
+2021-09-09 14:21:12,910 - root - WARNING - 
+Epoch [ 1/100], Step [ 59/ 63], Loss train: 0.6318 
+2021-09-09 14:21:36,197 - root - WARNING - ------- iteration phase train:59 ----------
+2021-09-09 14:21:36,879 - root - WARNING - 
+Epoch [ 1/100], Step [ 60/ 63], Loss train: 0.3838 
+2021-09-09 14:22:00,428 - root - WARNING - ------- iteration phase train:60 ----------
+2021-09-09 14:22:01,096 - root - WARNING - 
+Epoch [ 1/100], Step [ 61/ 63], Loss train: 0.4505 
+2021-09-09 14:22:24,426 - root - WARNING - ------- iteration phase train:61 ----------
+2021-09-09 14:22:25,113 - root - WARNING - 
+Epoch [ 1/100], Step [ 62/ 63], Loss train: 0.5323 
+2021-09-09 14:22:47,490 - root - WARNING - ------- iteration phase train:62 ----------
+2021-09-09 14:22:48,156 - root - WARNING - 
+Epoch [ 1/100], Step [ 63/ 63], Loss train: 0.5308 
+2021-09-09 14:22:48,156 - root - WARNING - Corrects  train in epoch_1: 196 from 252
+2021-09-09 14:22:48,156 - root - WARNING - Train Accuracy in epoch_1: 77.7778, Train Loss total: 0.5886
+2021-09-09 14:22:48,469 - root - WARNING - -----------------------evaluation-----------------------
+2021-09-09 14:28:58,525 - root - WARNING - Validation Accuracy in epoch_0:  78.1250 ,Valid Loss: 17.8912
+2021-09-09 14:28:58,526 - root - WARNING - fold: 0tn: 0fp: 12fn: 2tp: 50
+2021-09-09 14:28:58,527 - root - WARNING - [[ 0 12]
+ [ 2 50]]
+2021-09-09 14:28:58,527 - root - WARNING - Finished evalating
+2021-09-09 14:28:58,527 - root - WARNING - -------------------- epoch 1 ------------------
+
+2021-09-09 14:29:20,199 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-09 14:29:20,875 - root - WARNING - 
+Epoch [ 2/100], Step [  1/ 63], Loss train: 0.5495 
+2021-09-09 14:29:42,810 - root - WARNING - ------- iteration phase train:1 ----------
+2021-09-09 14:29:43,479 - root - WARNING - 
+Epoch [ 2/100], Step [  2/ 63], Loss train: 0.8254 
+2021-09-09 14:30:06,058 - root - WARNING - ------- iteration phase train:2 ----------
+2021-09-09 14:30:06,743 - root - WARNING - 
+Epoch [ 2/100], Step [  3/ 63], Loss train: 0.4830 
+2021-09-09 14:30:28,528 - root - WARNING - ------- iteration phase train:3 ----------
+2021-09-09 14:30:29,199 - root - WARNING - 
+Epoch [ 2/100], Step [  4/ 63], Loss train: 0.6214 
+2021-09-09 14:30:51,017 - root - WARNING - ------- iteration phase train:4 ----------
+2021-09-09 14:30:51,701 - root - WARNING - 
+Epoch [ 2/100], Step [  5/ 63], Loss train: 0.3665 
+2021-09-09 14:31:13,477 - root - WARNING - ------- iteration phase train:5 ----------
+2021-09-09 14:31:14,150 - root - WARNING - 
+Epoch [ 2/100], Step [  6/ 63], Loss train: 0.4774 
+2021-09-09 14:31:35,862 - root - WARNING - ------- iteration phase train:6 ----------
+2021-09-09 14:31:36,543 - root - WARNING - 
+Epoch [ 2/100], Step [  7/ 63], Loss train: 0.4658 
+2021-09-09 14:31:58,841 - root - WARNING - ------- iteration phase train:7 ----------
+2021-09-09 14:31:59,511 - root - WARNING - 
+Epoch [ 2/100], Step [  8/ 63], Loss train: 0.5629 
+2021-09-09 14:32:21,746 - root - WARNING - ------- iteration phase train:8 ----------
+2021-09-09 14:32:22,423 - root - WARNING - 
+Epoch [ 2/100], Step [  9/ 63], Loss train: 0.5554 
+2021-09-09 14:32:44,905 - root - WARNING - ------- iteration phase train:9 ----------
+2021-09-09 14:32:45,575 - root - WARNING - 
+Epoch [ 2/100], Step [ 10/ 63], Loss train: 0.7040 
+2021-09-09 14:33:07,548 - root - WARNING - ------- iteration phase train:10 ----------
+2021-09-09 14:33:08,229 - root - WARNING - 
+Epoch [ 2/100], Step [ 11/ 63], Loss train: 0.5531 
+2021-09-09 14:33:30,322 - root - WARNING - ------- iteration phase train:11 ----------
+2021-09-09 14:33:30,990 - root - WARNING - 
+Epoch [ 2/100], Step [ 12/ 63], Loss train: 0.8462 
+2021-09-09 14:33:53,108 - root - WARNING - ------- iteration phase train:12 ----------
+2021-09-09 14:33:53,788 - root - WARNING - 
+Epoch [ 2/100], Step [ 13/ 63], Loss train: 0.4953 
+2021-09-09 14:34:15,649 - root - WARNING - ------- iteration phase train:13 ----------
+2021-09-09 14:34:16,314 - root - WARNING - 
+Epoch [ 2/100], Step [ 14/ 63], Loss train: 0.3005 
+2021-09-09 14:34:38,259 - root - WARNING - ------- iteration phase train:14 ----------
+2021-09-09 14:34:38,941 - root - WARNING - 
+Epoch [ 2/100], Step [ 15/ 63], Loss train: 0.3750 
+2021-09-09 14:35:00,497 - root - WARNING - ------- iteration phase train:15 ----------
+2021-09-09 14:35:01,170 - root - WARNING - 
+Epoch [ 2/100], Step [ 16/ 63], Loss train: 0.3699 
+2021-09-09 14:35:23,136 - root - WARNING - ------- iteration phase train:16 ----------
+2021-09-09 14:35:23,816 - root - WARNING - 
+Epoch [ 2/100], Step [ 17/ 63], Loss train: 0.5900 
+2021-09-09 14:35:46,031 - root - WARNING - ------- iteration phase train:17 ----------
+2021-09-09 14:35:46,699 - root - WARNING - 
+Epoch [ 2/100], Step [ 18/ 63], Loss train: 0.3954 
+2021-09-09 14:36:08,775 - root - WARNING - ------- iteration phase train:18 ----------
+2021-09-09 14:36:09,455 - root - WARNING - 
+Epoch [ 2/100], Step [ 19/ 63], Loss train: 0.3303 
+2021-09-09 14:36:31,551 - root - WARNING - ------- iteration phase train:19 ----------
+2021-09-09 14:36:32,220 - root - WARNING - 
+Epoch [ 2/100], Step [ 20/ 63], Loss train: 0.4853 
+2021-09-09 14:36:53,937 - root - WARNING - ------- iteration phase train:20 ----------
+2021-09-09 14:36:54,617 - root - WARNING - 
+Epoch [ 2/100], Step [ 21/ 63], Loss train: 0.2847 
+2021-09-09 14:37:16,013 - root - WARNING - ------- iteration phase train:21 ----------
+2021-09-09 14:37:16,683 - root - WARNING - 
+Epoch [ 2/100], Step [ 22/ 63], Loss train: 0.5504 
+2021-09-09 14:37:38,585 - root - WARNING - ------- iteration phase train:22 ----------
+2021-09-09 14:37:39,250 - root - WARNING - 
+Epoch [ 2/100], Step [ 23/ 63], Loss train: 0.4674 
+2021-09-09 14:38:01,317 - root - WARNING - ------- iteration phase train:23 ----------
+2021-09-09 14:38:01,993 - root - WARNING - 
+Epoch [ 2/100], Step [ 24/ 63], Loss train: 0.3088 
+2021-09-09 14:38:23,628 - root - WARNING - ------- iteration phase train:24 ----------
+2021-09-09 14:38:24,294 - root - WARNING - 
+Epoch [ 2/100], Step [ 25/ 63], Loss train: 0.3643 
+2021-09-09 14:38:46,137 - root - WARNING - ------- iteration phase train:25 ----------
+2021-09-09 14:38:46,823 - root - WARNING - 
+Epoch [ 2/100], Step [ 26/ 63], Loss train: 0.5393 
+2021-09-09 14:39:08,550 - root - WARNING - ------- iteration phase train:26 ----------
+2021-09-09 14:39:09,215 - root - WARNING - 
+Epoch [ 2/100], Step [ 27/ 63], Loss train: 0.6299 
+2021-09-09 14:39:31,294 - root - WARNING - ------- iteration phase train:27 ----------
+2021-09-09 14:39:31,974 - root - WARNING - 
+Epoch [ 2/100], Step [ 28/ 63], Loss train: 0.4870 
+2021-09-09 14:39:54,068 - root - WARNING - ------- iteration phase train:28 ----------
+2021-09-09 14:39:54,740 - root - WARNING - 
+Epoch [ 2/100], Step [ 29/ 63], Loss train: 0.5701 
+2021-09-09 14:40:17,044 - root - WARNING - ------- iteration phase train:29 ----------
+2021-09-09 14:40:17,732 - root - WARNING - 
+Epoch [ 2/100], Step [ 30/ 63], Loss train: 0.5214 
+2021-09-09 14:40:40,226 - root - WARNING - ------- iteration phase train:30 ----------
+2021-09-09 14:40:40,893 - root - WARNING - 
+Epoch [ 2/100], Step [ 31/ 63], Loss train: 0.2577 
+2021-09-09 14:41:03,175 - root - WARNING - ------- iteration phase train:31 ----------
+2021-09-09 14:41:03,858 - root - WARNING - 
+Epoch [ 2/100], Step [ 32/ 63], Loss train: 0.2668 
+2021-09-09 14:41:25,803 - root - WARNING - ------- iteration phase train:32 ----------
+2021-09-09 14:41:26,471 - root - WARNING - 
+Epoch [ 2/100], Step [ 33/ 63], Loss train: 0.5744 
+2021-09-09 14:41:48,281 - root - WARNING - ------- iteration phase train:33 ----------
+2021-09-09 14:41:48,966 - root - WARNING - 
+Epoch [ 2/100], Step [ 34/ 63], Loss train: 0.6054 
+2021-09-09 14:42:11,011 - root - WARNING - ------- iteration phase train:34 ----------
+2021-09-09 14:42:11,676 - root - WARNING - 
+Epoch [ 2/100], Step [ 35/ 63], Loss train: 0.4139 
+2021-09-09 14:42:33,822 - root - WARNING - ------- iteration phase train:35 ----------
+2021-09-09 14:42:34,505 - root - WARNING - 
+Epoch [ 2/100], Step [ 36/ 63], Loss train: 0.2925 
+2021-09-09 14:42:57,171 - root - WARNING - ------- iteration phase train:36 ----------
+2021-09-09 14:42:57,840 - root - WARNING - 
+Epoch [ 2/100], Step [ 37/ 63], Loss train: 0.3095 
+2021-09-09 14:43:20,536 - root - WARNING - ------- iteration phase train:37 ----------
+2021-09-09 14:43:21,220 - root - WARNING - 
+Epoch [ 2/100], Step [ 38/ 63], Loss train: 0.3114 
+2021-09-09 17:37:31,880 - root - WARNING - This will get logged to a file
+2021-09-09 17:37:31,897 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_feature_reduction
+2021-09-09 17:37:33,942 - root - WARNING - fold: 0
+2021-09-09 17:37:33,944 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 17:37:54,275 - root - WARNING - This will get logged to a file
+2021-09-09 17:37:54,285 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_feature_reduction
+2021-09-09 17:37:56,374 - root - WARNING - fold: 0
+2021-09-09 17:37:56,378 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 17:38:19,465 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-09 17:38:20,154 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6709 
+2021-09-09 17:39:39,370 - root - WARNING - This will get logged to a file
+2021-09-09 17:39:39,382 - root - WARNING - /home/tookai-1/Desktop/sara/covid_safavi/code01/Multimodal-Prognosis-COVID-19-/train/train_with_feature_reduction
+2021-09-09 17:39:41,277 - root - WARNING - fold: 0
+2021-09-09 17:39:41,280 - root - WARNING - -------------------- epoch 0 ------------------
+
+2021-09-09 17:40:03,596 - root - WARNING - ------- iteration phase train:0 ----------
+2021-09-09 17:40:04,272 - root - WARNING - 
+Epoch [ 1/100], Step [  1/ 63], Loss train: 0.6959 
