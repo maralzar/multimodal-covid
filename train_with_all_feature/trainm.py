@@ -30,7 +30,7 @@ import logging.handlers
 # print(logging.handlers)
 logger = logging.getLogger()
 fh = logging.handlers.RotatingFileHandler('./logfile_train_with_all_feature_miyani.log')
-fh.setLevel(logging.DEBUG)#no matter what level I set here
+fh.setLevel(logging.DEBUG)
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 fh.setFormatter(formatter)
 logger.addHandler(fh)
@@ -79,8 +79,6 @@ class Net(nn.Module):
         x = F.max_pool3d(x, 2)
         x = self.bn3(x)
         conv_out = x.view(-1, self.bs*self.c*64*64*1)
-        # print('***************************',conv_out.shape)
-    
         c = torch.cat([conv_out, y], dim=1)
         # print(c.shape)
 #         # Pass data through fc1
@@ -98,7 +96,7 @@ class Net(nn.Module):
         return x
 
 
-def main(epoch_num=10,learning_rate = 0.01,kfold_num =5):
+def main(epoch_num=50,learning_rate = 0.000001,kfold_num =5):
     root = Path(os.getcwd())
     logger.warning(str(root))
     csv_file = root/'final_with_knn.csv'
@@ -116,11 +114,11 @@ def main(epoch_num=10,learning_rate = 0.01,kfold_num =5):
     Model.to(device ='cuda:0')
 #     Model = torch.load('./models/epoch_20')
     print("load model")	
-    learning_rate = 0.000001
+ 
     criterion = nn.CrossEntropyLoss()
     optimizer = torch.optim.Adam(Model.parameters(),lr = learning_rate)
     #for cross entropy, 2 neuron output
-    num_epochs = 100
+    num_epochs = epoch_num
     losses = [] 
     valid_losses = []
     corrects = 0
