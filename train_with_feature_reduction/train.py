@@ -39,7 +39,7 @@ logger.warning('This will get logged to a file')
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
-def main(epoch_num=10,learning_rate = 0.01,kfold_num =5,load_last_model=False):
+def main(epoch_num=50,learning_rate = 0.000001,kfold_num =5,load_last_model=False):
     root = Path(os.getcwd())
     logger.warning(str(root))
     csv_file = root/'final_with_knn.csv'
@@ -53,12 +53,10 @@ def main(epoch_num=10,learning_rate = 0.01,kfold_num =5,load_last_model=False):
 #         Model = torch.load('./models/epoch_20')
     print("load model")	
     criterion = nn.CrossEntropyLoss()
-
-    learning_rate = 0.000001
     criterion = nn.CrossEntropyLoss()
     optimizer = torch.optim.Adam(Model.parameters(),lr = learning_rate)
     #for cross entropy, 2 neuron output
-    num_epochs = 100
+    num_epochs = epoch_num
     losses = [] 
     valid_losses = []
     corrects = 0
