@@ -39,7 +39,7 @@ logger.warning('This will get logged to a file')
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
-def main(epoch_num=10,learning_rate = 0.01,kfold_num =5,load_last_model=False):
+def main(epoch_num=50,learning_rate = 0.000001,kfold_num =5,load_last_model=False):
     root = Path(os.getcwd())
     logger.warning(str(root))
     csv_file = root/'final_with_knn.csv'
@@ -134,7 +134,7 @@ def main(epoch_num=10,learning_rate = 0.01,kfold_num =5,load_last_model=False):
         
                         
             
-                if epoch % 1 == 0:
+                if epoch % 5 == 0:
                         print('Corrects in epoch_%d: %d from %d' %(epoch+1 ,corrects,4*len(train_loader)))
                         print('Train Accuracy in epoch_%d: %.4f, Train Loss: ' 
                         %(epoch+1 ,(100 * (corrects / len(train_loader)))),training_loss/len(train_loader)) 
