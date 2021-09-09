@@ -63,7 +63,7 @@ def main(epoch_num=50,learning_rate = 0.000001,kfold_num =5,load_last_model=Fals
     criterion = nn.CrossEntropyLoss()
     optimizer = torch.optim.Adam(Model.parameters(),lr = learning_rate)
     #for cross entropy, 2 neuron output
-    num_epochs = 100
+    num_epochs = epoch_num
     losses = [] 
     valid_losses = []
     corrects = 0
